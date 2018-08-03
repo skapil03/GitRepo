@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is F263-7D72
+
+ Directory of C:\Users\skapil\Desktop\jenkins\MyProject
+
+08/03/2018  11:30 AM    <DIR>          .
+08/03/2018  11:30 AM    <DIR>          ..
+08/03/2018  11:30 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  85,630,058,496 bytes free
